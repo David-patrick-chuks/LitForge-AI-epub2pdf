@@ -13,12 +13,12 @@
   "author": "Chuks <your.email@example.com> (https://github.com/David-patrick-chuks)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/David-patrick-chuks/litforgeai-epub2pdf.git"
+    "url": "https://github.com/David-patrick-chuks/LitForge-AI-epub2pdf.git"
   },
   "bugs": {
-    "url": "https://github.com/David-patrick-chuks/litforgeai-epub2pdf/issues"
+    "url": "https://github.com/David-patrick-chuks/LitForge-AI-epub2pdf/issues"
   },
-  "homepage": "https://github.com/David-patrick-chuks/litforgeai-epub2pdf#readme",
+  "homepage": "https://github.com/David-patrick-chuks/LitForge-AI-epub2pdf#readme",
   "license": "MIT",
   "dependencies": {
     "convertapi": "^1.15.0",
